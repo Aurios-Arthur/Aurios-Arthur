@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I'am a good Archer and future Black belt**
 
 
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/Aurios.png" alt="Your Image Badge" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
