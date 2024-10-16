@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Arthur</h1>
-<h3 align="center">Beginner Pentester | Software Engineering Student | Systems Analyst | Full Stack Dev</h3>
+<h3 align="center">Junior Pentester | Software Engineering Student | Systems Analyst | Full Stack Dev</h3>
 
 - 🔭 I’m currently working on **my IDS**
 
