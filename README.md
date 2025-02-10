@@ -1,18 +1,16 @@
 <h1 align="center">Hii 👋, I'm Arthur</h1>
-<h3 align="center">Junior Pentester | Software Engineering Student | Systems Analyst | Full Stack Dev</h3>
+<h3 align="center">Junior developer | Software Engineering Student | Systems Analyst | back-end Dev</h3>
 
-- 🔭 I’m currently working on **my IDS**
+- 🔭 I’m currently working on **personal project*
 
-- 🌱 I’m currently learning **CyberSecuryti**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React, C++ and Video Games!**
+- 💬 Ask me about **Node,Js and Video Games!**
 
 - 📫 How to reach me **arthurss0305@gmail.com**
 
 - ⚡ Fun fact **I'am a good Archer and future Black belt**
 
-
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/Aurios.png" alt="Your Image Badge" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
