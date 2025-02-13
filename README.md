@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Arthur</h1>
 <h3 align="center">Junior developer | Software Engineering Student | Systems Analyst | back-end Dev</h3>
 
-- 🔭 I’m currently working on **personal project*
+- 🔭 I’m currently working on **personal project**
 
 - 🌱 I’m currently learning **Typescript**
 
