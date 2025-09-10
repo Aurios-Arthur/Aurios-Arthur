@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GAMA CENTER**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **LLMs and Prompt Engineering**
 
 - 💬 Ask me about **Node,Js and Video Games!**
 
